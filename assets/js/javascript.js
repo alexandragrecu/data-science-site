@@ -23,7 +23,7 @@ function myFunction() {
 
 // Stiky Header
 jQuery(document).ready(function($){
-  var $stickyMenu = jQuery('header');
+  var $stickyMenu = jQuery('header2');
 
   var stickyNavTop = jQuery($stickyMenu).offset().top + 100;
 

@@ -499,7 +499,6 @@ form ::-ms-input-placeholder {
   display: inline-block;
   width: 100%;
   padding: 0;
-  margin: 0;
 }
 
 /* Header Area */
@@ -953,6 +952,7 @@ footer ul li a:hover {
   width: 100%;
   padding: 85px 0 75px;
   position: relative;
+  margin-top: 70px;
 }
 
 .section-4-homepage::before {
